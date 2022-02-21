@@ -15,9 +15,10 @@
       <RowConstraints />
       <RowConstraints />
       <RowConstraints />
+      <RowConstraints />
    </rowConstraints>
    <children>
-      <Button mnemonicParsing="false" prefHeight="76.0" prefWidth="152.0" style="-fx-background-color: #5970c3; -fx-font-weight: bold;" text="Visitor" textFill="WHITE" GridPane.rowIndex="1" />
-      <Button mnemonicParsing="false" prefHeight="76.0" prefWidth="155.0" style="-fx-background-color: #5970c3; -fx-font-weight: bold; -fx-border-radius: 100;" text="Admin" textFill="WHITE" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Button mnemonicParsing="false" prefHeight="76.0" prefWidth="152.0" style="-fx-background-color: #5970c3; -fx-font-weight: bold;" text="Visitor" textFill="WHITE" GridPane.rowIndex="2" />
+      <Button mnemonicParsing="false" prefHeight="76.0" prefWidth="155.0" style="-fx-background-color: #5970c3; -fx-font-weight: bold; -fx-border-radius: 100;" text="Admin" textFill="WHITE" GridPane.columnIndex="1" GridPane.rowIndex="2" />
    </children>
 </GridPane>
